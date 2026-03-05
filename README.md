@@ -2,7 +2,8 @@
 
 I'm Kaik Novais, a Software Engineer working across the full stack — from data layers to user interfaces. Focused on building things that are fast, clean, and maintainable.
 
-Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaik-novais)
+### Connect with me on: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaik-novais)
 
 ## 🛠️ Skills
 
